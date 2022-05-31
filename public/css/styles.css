@@ -1,0 +1,43 @@
+body {
+  background: lightblue;
+}
+
+.wanted {
+  text-align: center;
+  justify-content: center;
+  overflow: hidden;
+  border: 5px dotted red;
+  border-radius: 40px;
+  width: 300px;
+  background: yellow;
+  position: absolute;
+  left: 600px;
+  top: 100px;
+}
+
+.roboImg {
+  width: 100px;
+  border: 2px solid black;
+  padding: 10px;
+  background: white;
+  margin: 10px;
+}
+
+.headline {
+  font-family: Impact;
+  font-size: 50pt;
+  text-decoration: underline overline;
+  margin: 10px;
+}
+
+h3 {
+  font-family: Impact;
+  font-size: 18pt;
+  margin: 10px;
+}
+
+p {
+  font-family: Arial;
+  font-size: 12pt;
+  margin: 20px;
+}
